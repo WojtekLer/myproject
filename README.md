@@ -1,1 +1,3 @@
 "# myproject" 
+git init
+.gitignore
